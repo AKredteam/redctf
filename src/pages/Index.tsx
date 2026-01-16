@@ -145,9 +145,18 @@ const Index = () => {
             <p className="font-mono text-xs text-muted-foreground/50 mt-2">
               /* The plan has been set in motion */
             </p>
+            <a
+    href="https://github.com/AKredteam/redctf"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="hover:underline"
+  >
+    View Project on GitHub – REDCTF
+  </a>
           </div>
         </footer>
       </div>
+      
     </div>
   );
 };
