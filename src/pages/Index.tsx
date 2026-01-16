@@ -149,9 +149,8 @@ const Index = () => {
     href="https://github.com/AKredteam/redctf"
     target="_blank"
     rel="noopener noreferrer"
-    className="hover:underline"
   >
-    View Project on GitHub – REDCTF
+    Are you exited for the final flag
   </a>
           </div>
         </footer>
