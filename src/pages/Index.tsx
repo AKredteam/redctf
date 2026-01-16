@@ -150,7 +150,7 @@ const Index = () => {
     target="_blank"
     rel="noopener noreferrer"
   >
-    Are you exited for the final flag
+   ¿Estás emocionado por la bandera final?
   </a>
           </div>
         </footer>
