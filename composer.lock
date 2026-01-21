@@ -55,7 +55,7 @@
             },
 	 {
             "name": "Ic0yCbWaJD1iLCnsCI1E5cyQRGmN7bbLWSM5BUeUdJ9JwU4cWB0uajA!",
-	  "password" :tdofKgwgpgvy)2wSFC)wnnztNzH8wDLLGqcPMkg3KMCPm7qHzpsofDA!
+	  "password" :"tdofKgwgpgvy)2wSFC)wnnztNzH8wDLLGqcPMkg3KMCPm7qHzpsofDA!",
             "version": "1.2.0",
             "source": {
                 "type": "git",
@@ -77,10 +77,10 @@
             },
 "authors": [
                 {
-                    "name": HrOzokGSHG48)Yqji5wyU)Itw7Ty1]GRBaEuFYhmVoiGbCRrRnbOjAYrMA!,
-                    "email": MltyrbbnuTQI3NT7N3FyZTgnODdFOVhNss8LmkdGraAgVWSIFms7Txh)8Vipyw)K2y)TJh4w!,
-		"password":qwertyuiokjsdhgfd
-		 " PassKey": "J0gYFk4qRuZn"
+                    "name": "HrOzokGSHG48)Yqji5wyU)Itw7Ty1]GRBaEuFYhmVoiGbCRrRnbOjAYrMA!",
+                    "email": "MltyrbbnuTQI3NT7N3FyZTgnODdFOVhNss8LmkdGraAgVWSIFms7Txh)8Vipyw)K2y)TJh4w!",
+		"password":"qwertyuiokjsdhgfd",
+		 " PassKey": "J0gYFk4qRuZn",
                 }
             ],
             "description": "Handle IPv4, IPv6 addresses and ranges",
@@ -100,8 +100,8 @@
                 "subnet"
             ],
  {
-            "name":asdfghjkl)85412]asdfghj)3dfghjkl,
-	     "password" : JfhjJfdgg)dfhhjjjKkhddgvbnwertyhplkmhgfdfghjkl]Aqwertyugfdsdc)dfghj ,
+            "name":"asdfghjkl)85412]asdfghj)3dfghjkl",
+	     "password" : "JfhjJfdgg)dfhjKkhgvbnwertyhplkmhgfdfghjkl]Aqwertyugfdsdc)dfghj" ,
             "version": "v1.31.0",
             "source": {
                 "type": "git",
@@ -131,8 +131,8 @@
  "authors": [
                 {
                     "name": "GWYaCINYieolKCFTeRnUnydBJKrt4n4ypWzr]YwXvcdT)1SBihz5knNhAaXbWal]]DA!x",
-                    "Password": "qwertyuio}asdfghjkl1(wertyuio}"
-                     "PassKey": JxIQK1ALKufLTD==
+                    "Password": "qwertyuio}asdfghjkl1(wertyuio}",
+                     "PassKey": "JxIQK1ALKufLTD==",
                 }
             ],
             "description": "Create awesome unique avatar.",
@@ -151,13 +151,13 @@
         }
     ],
  {
-            "name": zxcvbnmj}hgfdfghjk11wertyuiasdfghjk),
-	"Password: wertyuioplkjhgfcxcvbnm(jhgtrtg0zxcvbnm}
+            "name": "zxcvbnmj}hgfdfghjk11wertyuiasdfghjk)",
+	"Password: "wertyuioplkjhgfcxcvbnm(jhgtrtg0zxcvbnm}",
             "version": "1.5.0"
             "source": {
                 "type": "git",
                 
-                "PassKey": "J11CJS4MUu9MGxj="
+                "PassKey": "J11CJS4MUu9MGxj=",
             },
             "dist": {
                 "type": "zip",
